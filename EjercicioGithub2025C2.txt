@@ -4,3 +4,16 @@ Diego Redondo
 Marco Gonzalez
 
 2. Describa los cuatro atributos importantes que debe tener todo producto de software. Sugiera además cuatro atributos adicionales que podrían ser significativos para productos específicos.
+
+Atributos Importantes:
+ - Mantenibilidad: Debe escribirse de tal forma que pueda evolucionar para cumplir con las necesidades de cambio de los clientes. 
+ - Confiabilidad: Fiabilidad, protección y seguridad. El software confiable no debe causar daños físicos o económicos en el caso de que exista una falla del sistema.
+ - Eficiencia: El software no debe malgastar recursos del sistema, como memoria y ciclos de procesamiento. Por lo tanto con eficiencia también nos referimos a tiempos de respuesta y de procesamiento, utilización de memoria, etc. 
+ - Usabilidad: Debe ser fácil de usar, sin esfuerzo adicional por el usuario para quien está diseñado. Debe tener una UI apropiada y buena documentación:
+
+Atributos adicionales: 
+ - Portabilidad: Es decir que se pueda ejecutar en diferentes dispositivos o sistemas.
+ - Escalabilidad: Que pueda ser un software con proyección y preparado para cualquier crecimiento en el volúmen de los datos. 
+ - Tolerante a fallos: Que siga funcionando o al menos parcialmente aunque hayan fallas.
+ - Velocidad de respuesta: Que haya una respuesta rápida y eficiente para el usuario y el entorno. 
+
