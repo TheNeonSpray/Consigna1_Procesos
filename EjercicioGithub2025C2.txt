@@ -2,3 +2,5 @@ Andrés Meléndez
 Alex Espinoza
 Diego Redondo
 Marco Gonzalez
+
+2. Describa los cuatro atributos importantes que debe tener todo producto de software. Sugiera además cuatro atributos adicionales que podrían ser significativos para productos específicos.
