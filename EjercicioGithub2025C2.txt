@@ -2,3 +2,16 @@ Andrés Meléndez
 Alex Espinoza
 Diego Redondo
 Marco Gonzalez
+3. Analice por qué los costos de pruebas de software son particularmente altos 
+en productos genéricos destinados a un mercado amplio y cómo esto influye 
+en su desarrollo.
+Los costos de pruebas en productos genéricos para un mercado amplio son altos porque deben garantizar que el software funcione correctamente en muchas configuraciones distintas. Además, al usar enfoques evolutivos y componentes reutilizables, se requiere hacer pruebas frecuentes y detalladas para asegurar compatibilidad e integración. Estos productos no suelen tener una fase de mantenimiento separada, sino que se crean nuevas versiones, lo que implica repetir el proceso de pruebas constantemente. Todo esto hace que las pruebas sean una de las actividades más costosas del desarrollo.
+
+
+
+
+
+
+
+
+
