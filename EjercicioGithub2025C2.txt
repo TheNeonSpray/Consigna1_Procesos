@@ -108,3 +108,21 @@ Atributos adicionales:
 3. Analice por qué los costos de pruebas de software son particularmente altos en productos genéricos destinados a un mercado amplio y cómo esto influye en su desarrollo.
 
 Los costos de pruebas en productos genéricos para un mercado amplio son altos porque deben garantizar que el software funcione correctamente en muchas configuraciones distintas. Además, al usar enfoques evolutivos y componentes reutilizables, se requiere hacer pruebas frecuentes y detalladas para asegurar compatibilidad e integración. Estos productos no suelen tener una fase de mantenimiento separada, sino que se crean nuevas versiones, lo que implica repetir el proceso de pruebas constantemente. Todo esto hace que las pruebas sean una de las actividades más costosas del desarrollo.
+
+
+
+Pero íbamos a hablar del clásico del domingo?
+
+4. Reflexione sobre la ética involucrada en el desarrollo de sistemas de vigilancia que rastrean las acciones de los ciudadanos para combatir el terrorismo. Discuta las implicaciones sobre la privacidad.
+
+La ACM y el IEEE han cooperado para crear un código de ética y práctica profesional que se basa en 8 principios, tomando en cuenta ada uno de ellos tenemos las siguientes implicaciones sobre la privacidad:
+
+-La vigilancia constante reduce significativamente el espacio para la vida privada y puede cohibir el comportamiento legítimo, afectando la libertad de expresión y la asociación, se pierde el anonimato y todas las personas van a perder la libertad de comportarse como les guste por temor a represalias.
+
+-Si bien el propósito es prevenir actos de terrorismo, muchas veces los datos recogidos son usados para otros fines, lo que representa una falta de ética, porque esta vigilancia termina sirviendo a intereses distintos a los originalmente planteados
+
+-Los sistemas de vigilancia mal diseñados pueden reforzar sesgos raciales, religiosos o de clase social, como por ejemplo al usar algoritmos sin supervisión humana ni mecanismos de apelación, lo que aumenta la discriminación y el sesgo.
+
+-Los ciudadanos pueden no saber qué datos se almacenan, ni cómo ejercer su derecho a la corrección o eliminación de estos, lo que afecta la gobernanza democrática.
+
+
