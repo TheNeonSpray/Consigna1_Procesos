@@ -2,3 +2,90 @@ Andrés Meléndez
 Alex Espinoza
 Diego Redondo
 Marco Gonzalez
+
+1. Explique las principales diferencias entre un producto de software genérico y
+un software personalizado, destacando sus implicaciones en la gestión y el
+desarrollo.
+
+ 1. Definición
+➡ Software Genérico:
+
+Es un producto diseñado para satisfacer necesidades comunes de un amplio grupo de usuarios.
+
+Se desarrolla para el mercado masivo.
+
+Ejemplo: Microsoft Word, Excel, navegadores web.
+
+➡ Software Personalizado:
+
+Es desarrollado específicamente para un cliente o una organización particular.
+
+Se adapta a necesidades específicas del negocio.
+
+Ejemplo: Un sistema de gestión de inventario hecho a medida para una tienda local.
+
+🔷 2. Desarrollo
+➡ Genérico:
+
+El desarrollo lo realiza una empresa especializada sin un cliente específico.
+
+Se basa en estudios de mercado y suposiciones sobre requerimientos comunes.
+
+Suele tener ciclos de desarrollo largos pero bien definidos.
+
+➡ Personalizado:
+
+Se construye en colaboración con el cliente final.
+
+El desarrollo es más flexible y requiere comunicación constante.
+
+Cambios y requisitos pueden surgir durante el proceso.
+
+🔷 3. Costos
+➡ Genérico:
+
+Menor costo para el usuario individual, ya que se distribuye entre muchos compradores.
+
+Generalmente se paga una licencia o suscripción.
+
+➡ Personalizado:
+
+Mayor costo inicial porque se desarrolla desde cero para un solo cliente.
+
+Puede requerir mantenimiento exclusivo y soporte continuo.
+
+🔷 4. Tiempo de Implementación
+➡ Genérico:
+
+Rápido, porque ya está desarrollado.
+
+Solo se necesita instalación y configuración.
+
+➡ Personalizado:
+
+Toma más tiempo, ya que implica análisis, diseño, desarrollo, pruebas e implementación.
+
+🔷 5. Flexibilidad y Adaptación
+➡ Genérico:
+
+Limitada. Debes adaptarte a lo que el software ofrece.
+
+Las personalizaciones pueden estar restringidas o requerir plugins externos.
+
+➡ Personalizado:
+
+Altamente adaptable. El sistema se ajusta exactamente a los procesos del cliente.
+
+🔷 6. Mantenimiento y Actualizaciones
+➡ Genérico:
+
+Las actualizaciones son responsabilidad del proveedor y se aplican a todos los usuarios.
+
+Mantenimiento centralizado.
+
+➡ Personalizado:
+
+Mantenimiento a cargo del desarrollador o equipo interno.
+
+Las actualizaciones dependen del cliente y su presupuesto.
+
